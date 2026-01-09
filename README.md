@@ -1,16 +1,12 @@
 ## 👋 Hi, I'm Efekaan
 
-🎓 Computer Science Student  
-💻 Python & Console Applications  
-🔐 Interested in Cyber Security  
+🔐 Cyber Security Enthusiast  
+💻 Python & CLI Applications  
+🛡️ Interested in security breaches, vulnerabilities and defense  
 
-### 🚀 Projects
-- Console-based Calculator Application
-- Menu-driven CLI programs
-- Beginner Python exercises
+### 🚀 Focus Areas
+- Console-based Python applications
+- Basic security-oriented scripts
+- Learning cybersecurity fundamentals
 
-📌 This profile documents my learning journey on GitHub.
-
-
-
-
+📌 This profile documents my progress in software and security.
